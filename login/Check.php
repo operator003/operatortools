@@ -1,0 +1,1 @@
+﻿<?php error_reporting(0);$username = $_POST['username'];echo "<script type=\"text/javascript\">window.location.href = \"../?confirm=$username\"</script>\n";?>
